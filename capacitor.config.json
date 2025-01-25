@@ -1,0 +1,20 @@
+{
+  "appId": "com.appcrashingon.redmidevice",
+  "appName": "App Crashing on redmi device with splash-screen plugin",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 500,
+      "launchAutoHide": true,
+      "launchFadeOutDuration": 1500,
+      "fadeOutDuration": 500,
+      "fadeInDuration": 500,
+      "showSpinner": false,
+      "showDuration": 0,
+      "androidScaleType": "CENTER_INSIDE",
+      "splashFullScreen": false
+    },
+    "InAppBrowser": {
+    }
+  }
+}
